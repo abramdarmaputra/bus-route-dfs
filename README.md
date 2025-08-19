@@ -21,9 +21,9 @@ Proyek ini diimplementasikan dalam **tiga bahasa pemrograman**:
 ```
 .
 ├── python/
-│   └── bus\_routes.py
+│   └── bus-routes.py
 ├── javascript/
-│   └── bus\_routes.js
+│   └── bus-routes.js
 ├── java/
 │   └── BusRoutes.java
 └── README.md
@@ -36,14 +36,14 @@ Proyek ini diimplementasikan dalam **tiga bahasa pemrograman**:
 ### 🔹 Python
 ```bash
 cd python
-python bus_routes.py
+python bus-routes.py
 ```
 
 ### 🔹 JavaScript (Node.js)
 
 ```bash
 cd javascript
-node bus_routes.js
+node bus-routes.js
 ```
 
 ### 🔹 Java
